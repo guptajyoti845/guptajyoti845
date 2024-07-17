@@ -2,7 +2,6 @@
 <h2 align="center">A technology agnostic & polyglot Senior Software Developer</h3>
 
 ## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
-- [Shopping Cart](https://github.com/guptajyoti845/ShoppingCart)
 - [Vending Machine](https://github.com/guptajyoti845/vendingMachine)
 - [Library Management System](https://github.com/guptajyoti845/LibraryManagementSystem)
 - [React 18 Server side Rendering](https://github.com/guptajyoti845/demo-react-ssr)
