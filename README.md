@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jyoti Gupta</h1>
-<h3 align="center">- I'm passionate about crafting dynamic user experiences with Angular and React with web accessibility and performance, - Clean code & best engineering practices - Also sometimes I write articles on GraphQL, Javascript, Angular, Server side Rendering and many more exciting topics: **https://jyotiguptaofficial.medium.com/**</h3>
-
-
 <h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2)</h3>
 
 ## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
