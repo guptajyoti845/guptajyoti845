@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Jyoti Gupta</h1>
 <h3 align="center">- I'm passionate about crafting dynamic user experiences with Angular and React with web accessibility and performance, - Clean code & best engineering practices - Also sometimes I write articles on GraphQL, Javascript, Angular, Server side Rendering and many more exciting topics: **https://jyotiguptaofficial.medium.com/**</h3>
 
-- 🔭 I’m currently working on [Shopping Cart](https://github.com/guptajyoti845/ShoppingCart.git)
 
-- 👯 I’m looking to collaborate on [Library Management System](https://github.com/guptajyoti845/LibraryManagementSystem.git)
+<h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2)</h3>
 
-- 🤝 I’m looking for help with [Vending Machine](https://github.com/guptajyoti845/vendingMachine.git)
+## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
+- [Shopping Cart](https://github.com/guptajyoti845/ShoppingCart)
+- [Vending Machine](https://github.com/guptajyoti845/vendingMachine)
+- [Library Management System](https://github.com/guptajyoti845/LibraryManagementSystem)
+- [React 18 Server side Rendering](https://github.com/guptajyoti845/demo-react-ssr)
+- [Parking Lot](https://github.com/guptajyoti845/parking-lot-lld-oop-ood)
+- [Test Container Integration](https://github.com/guptajyoti845/demo-testcontainer)
+- [Transaction Routine](https://github.com/guptajyoti845/transaction-routine)
 
-- 👨‍💻 All of my projects are available at [https://github.com/guptajyoti845](https://github.com/guptajyoti845)
 
-- 📝 I regularly write articles on [https://medium.com/@jyotiguptaofficial](https://medium.com/@jyotiguptaofficial)
+## Things I am passionate about
+- Solving complex problems with JavaScript and applying Object-Oriented Design principles to build scalable and maintainable applications
+- Clean code & best engineering practices
+- Also sometimes I write articles on GraphQL, Angular, Javascript, React 18 and many more: **https://jyotiguptaofficial.medium.com/**
 
-- 💬 Ask me about **Angular, react, NextJS, Vue, GraphQL, NodeJS**
+## Wanna reach out to me?
+- Email: [jyotiguptaofficial@gmail.com](jyotiguptaofficial@gmail.com)
 
-- 📫 How to reach me **jyotiguptaofficial@gmail.com**
+- Linkedin: <a href="https://www.linkedin.com/in/jyoti-g-18522a111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-g-18522a111/" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jyoti-g-18522a111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyoti-g-18522a111/" height="30" width="40" /></a>
-<a href="https://medium.com/@jyotiguptaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotiguptaofficial" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jyotigupta845/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jyotigupta845/" height="30" width="40" /></a>
+- Twitter: <a href="https://x.com/jyotigupta845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotigupta845" height="30" width="40" /></a>
+
+- Medium <a href="https://medium.com/@jyotiguptaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotigupta845" height="30" width="40" /></a>
+</p>
+
+- Medium <a href="https://www.leetcode.com/https://leetcode.com/u/jyotigupta845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jyotigupta845/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
