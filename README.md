@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyoti Gupta</h1>
-<h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2)</h3>
+<h2 align="center">A technology agnostic & polyglot Senior Software Developer</h3>
 
 ## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
 - [Shopping Cart](https://github.com/guptajyoti845/ShoppingCart)
