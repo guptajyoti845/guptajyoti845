@@ -25,7 +25,7 @@
 - Medium <a href="https://medium.com/@jyotiguptaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotigupta845" height="30" width="40" /></a>
 </p>
 
-- Leetcode <a href="https://www.leetcode.com/https://leetcode.com/u/jyotigupta845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jyotigupta845/" height="30" width="40" /></a>
+- Leetcode <a href="https://leetcode.com/u/jyotigupta845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jyotigupta845/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
