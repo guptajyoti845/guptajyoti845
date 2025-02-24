@@ -7,7 +7,11 @@
 - [React 18 Server side Rendering](https://github.com/guptajyoti845/demo-react-ssr)
 - [Parking Lot](https://github.com/guptajyoti845/parking-lot-lld-oop-ood)
 - [TestContainer Integration](https://github.com/guptajyoti845/demo-testcontainer)
-- [Microfrontend Implementation](https://github.com/guptajyoti845/-Microfrontend-root-home.git)
+- [Microfrontend Implementation - Single SPA Framework](https://github.com/guptajyoti845/-Microfrontend-root-home.git)
+- [Ecommerce web Application - nx-workspace implementation](https://github.com/guptajyoti845/nx-workspace-ecommerce)
+- [Microfrontend Run Time integration - Module Federation](https://github.com/guptajyoti845/Microfrontends-with-Webpack-Module-Federation)
+- [Microfrontend Build Time integration](https://github.com/guptajyoti845/build-time-microfrontend-integration)
+
 
 
 ## Things I am passionate about
