@@ -11,6 +11,7 @@
 - [Ecommerce web Application - nx-workspace implementation](https://github.com/guptajyoti845/nx-workspace-ecommerce)
 - [Microfrontend Run Time integration - Module Federation](https://github.com/guptajyoti845/Microfrontends-with-Webpack-Module-Federation)
 - [Microfrontend Build Time integration](https://github.com/guptajyoti845/build-time-microfrontend-integration)
+- [Microfrontend Server Side Composition](https://github.com/guptajyoti845/microfrontend-server-side-composition)
 
 
 
